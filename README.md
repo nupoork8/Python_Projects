@@ -1,1 +1,1 @@
-## this repo contains my practice python projects
+## this repo contains my python projects
